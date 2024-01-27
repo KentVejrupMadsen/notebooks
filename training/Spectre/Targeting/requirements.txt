@@ -1,0 +1,8 @@
+pycocotools
+
+keras-core 
+keras-cv 
+keras 
+
+tensorflow
+matplotlib
